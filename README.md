@@ -13,6 +13,7 @@ https://www.sneakzapp.com
 
 https://apps.apple.com/at/app/vimoapp/id1509435146
 
+
 Feel free to connect with me on <a href="https://www.linkedin.com/in/adrian-suthold-8074a7151/">LinkedIn </a>
 
 
