@@ -1,4 +1,15 @@
-### Welcome to my Page. Nothing special only few of my projects 👋
+### Welcome to my Page. Nothing special only few of my projects ive made or im working on 👋
+I mostly programm in Swift, but i like to programm Python as well.
+
+Here are some of my Apps
+
+Sneakz
+(https://apps.apple.com/at/app/sneakz/id1532856139)
+
+(https://www.sneakzapp.com/surface.html#home)
+Vimoapp
+(https://apps.apple.com/at/app/vimoapp/id1509435146)
+
 
 
 
