@@ -1,4 +1,4 @@
-### Welcome to my Page. Nothing special only a few of the projects I've made or I'm working on. 👋
+### Welcome to my Page. Nothing special only a few of the projects I've made or I'm working on. 👋🏽
 I mostly programm in Swift, but i like to programm Python as well.
 
 Here are some of my Apps 📲
@@ -13,8 +13,8 @@ https://www.sneakzapp.com
 
 https://apps.apple.com/at/app/vimoapp/id1509435146
 
-
-Feel free to connect with me on <a href="https://www.linkedin.com/in/adrian-suthold-8074a7151/">LinkedIn </a>
+<br>
+Feel free to connect with me on <a href="https://www.linkedin.com/in/adrian-suthold-8074a7151/">LinkedIn </a> 🤙🏽
 
 
 
