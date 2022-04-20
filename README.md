@@ -1,20 +1,20 @@
 ### Welcome to my Page. Nothing special only a few of the projects I've made or I'm working on. 👋🏽
-I mostly programm in Swift, but i like to programm Python as well.
+I mostly programm in Swift, but i like to programm Python as well. 😊
 
 Here are some of my Apps 📲
 
 ### Sneakz 👟
 
-https://apps.apple.com/at/app/sneakz/id1532856139
+<a href="https://apps.apple.com/at/app/sneakz/id1532856139">AppStore</a>
 
-https://www.sneakzapp.com
+<a href="https://www.sneakzapp.com">Website</a>
 
 ### Vimoapp 📸
 
-https://apps.apple.com/at/app/vimoapp/id1509435146
+<a href="https://apps.apple.com/at/app/vimoapp/id1509435146">AppStore</a>
 
 <br>
-Feel free to connect with me on <a href="https://www.linkedin.com/in/adrian-suthold-8074a7151/">LinkedIn </a> 🤙🏽
+Feel free to connect with me on <a href="https://www.linkedin.com/in/adrian-suthold-8074a7151/">LinkedIn</a> 🤙🏽
 
 
 
