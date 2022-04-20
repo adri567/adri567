@@ -1,17 +1,19 @@
 ### Welcome to my Page. Nothing special only a few of the projects I've made or I'm working on. 👋
 I mostly programm in Swift, but i like to programm Python as well.
 
-Here are some of my Apps
+Here are some of my Apps 📲
 
-### Sneakz
+### Sneakz 👟
 
 https://apps.apple.com/at/app/sneakz/id1532856139
 
 https://www.sneakzapp.com
 
-### Vimoapp
+### Vimoapp 📸
 
 https://apps.apple.com/at/app/vimoapp/id1509435146
+
+Fell free to conect with me on linkedin
 
 
 
