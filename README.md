@@ -1,7 +1,7 @@
 ### Welcome to my Page. Nothing special only a few of the projects I've made or I'm working on. 👋🏽
 I mostly programm in Swift, but i like to programm Python as well. 
 
-Here are some of my Apps 📲
+Here are some of my projects 📲
 
 ### Sneakz 👟
 
