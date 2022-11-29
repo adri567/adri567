@@ -22,7 +22,7 @@ Here are some of my projects 📲
 <a href="https://github.com/adri567/FlexFlex">GitHub</a>
 
 <br>
-Feel free to connect with me on <a href="https://www.linkedin.com/in/adrian-suthold-8074a7151/">LinkedIn</a>, <a href="https://www.xing.com/profile/Adrian_Suthold">XING</a> or visit my website  <a href="https://codingbasement.de">Coding Basement</a>😊
+Feel free to connect with me on <a href="https://www.linkedin.com/in/adrian-suthold-8074a7151/">LinkedIn</a>, <a href="https://www.xing.com/profile/Adrian_Suthold">XING</a> or visit my website  <a href="https://codingbasement.de">Coding Basement</a> 😊
 
 
 
