@@ -12,8 +12,8 @@ Previous projects that are no longer maintained:
 
 | Sneakz  | Vimoapp |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| <a href="https://apps.apple.com/at/app/sneakz/id1532856139">AppStore</a>  | <a href="https://apps.apple.com/at/app/vimoapp/id1509435146">AppStore</a>  |
+| <a href="https://www.sneakzapp.com">Website</a>  |   |
 
 ### Sneakz 👟
 
