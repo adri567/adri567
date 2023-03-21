@@ -5,6 +5,9 @@ Currently working on:
 | ------------- | 
 |  [<img src="https://user-images.githubusercontent.com/26815443/226721967-f8517924-0587-44e6-bfd8-002aa04d1b62.png" width="400">](https://github.com/adri567/autogpt) | 
 
+Open-source projects:
+
+
 Previous projects that are no longer maintained:
 
 | Sneakz  | Vimoapp |
