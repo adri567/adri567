@@ -21,13 +21,6 @@ Previous projects that are no longer maintained:
 <br>
 Feel free to connect with me on <a href="https://www.linkedin.com/in/adrian-suthold-8074a7151/">LinkedIn</a>, <a href="https://www.xing.com/profile/Adrian_Suthold">XING</a> or visit my website  <a href="https://codingbasement.de">Coding Basement</a> 😊
 
-Feel free to connect with me on <img src="https://user-images.githubusercontent.com/26815443/226747688-a962dfca-2f6c-4f32-a094-abe765c9c649.png" width="40">
-
-<img src="https://user-images.githubusercontent.com/26815443/226748284-678ede40-fe79-471a-81d1-70f70268aac0.png" width="30">
-
-
-
-
 <!--
 **adri567/adri567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
