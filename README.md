@@ -9,9 +9,7 @@ Open-source projects:
 
 | CheesyChart 🧀  | FlexFlex 💠 |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
+| <a href="https://github.com/adri567/CheesyChart">GitHub</a> | <a href="https://github.com/adri567/FlexFlex">GitHub</a>  |
 
 Previous projects that are no longer maintained:
 
