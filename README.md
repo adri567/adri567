@@ -18,24 +18,6 @@ Previous projects that are no longer maintained:
 | <a href="https://apps.apple.com/at/app/sneakz/id1532856139">AppStore</a>  | <a href="https://apps.apple.com/at/app/vimoapp/id1509435146">AppStore</a>  |
 | <a href="https://www.sneakzapp.com">Website</a>  |   |
 
-### Sneakz 👟
-
-<a href="https://apps.apple.com/at/app/sneakz/id1532856139">AppStore</a>
-
-<a href="https://www.sneakzapp.com">Website</a>
-
-### Vimoapp 📸
-
-<a href="https://apps.apple.com/at/app/vimoapp/id1509435146">AppStore</a>
-
-### CheesyChart 🧀
-
-<a href="https://github.com/adri567/CheesyChart">GitHub</a>
-
-### FlexFlex 💠
-
-<a href="https://github.com/adri567/FlexFlex">GitHub</a>
-
 <br>
 Feel free to connect with me on <a href="https://www.linkedin.com/in/adrian-suthold-8074a7151/">LinkedIn</a>, <a href="https://www.xing.com/profile/Adrian_Suthold">XING</a> or visit my website  <a href="https://codingbasement.de">Coding Basement</a> 😊
 
