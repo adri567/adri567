@@ -4,8 +4,7 @@ I mostly programm in Swift, but i like to programm Python as well.
 Currently working on:
 | AutoGPT  |
 | ------------- | 
-| Content Cell  | 
-| Content Cell  | 
+|  ![autogpt](https://user-images.githubusercontent.com/26815443/226721967-f8517924-0587-44e6-bfd8-002aa04d1b62.png) | 
 
 ### Sneakz 👟
 
