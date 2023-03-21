@@ -23,7 +23,7 @@ Feel free to connect with me on <a href="https://www.linkedin.com/in/adrian-suth
 
 Feel free to connect with me on <img src="https://user-images.githubusercontent.com/26815443/226747688-a962dfca-2f6c-4f32-a094-abe765c9c649.png" width="40">
 
-<img src="https://user-images.githubusercontent.com/26815443/226748284-678ede40-fe79-471a-81d1-70f70268aac0.png" width="35">
+<img src="https://user-images.githubusercontent.com/26815443/226748284-678ede40-fe79-471a-81d1-70f70268aac0.png" width="30">
 
 
 
