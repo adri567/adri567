@@ -6,6 +6,13 @@ Currently working on:
 | ------------- | 
 |  <img src="https://user-images.githubusercontent.com/26815443/226721967-f8517924-0587-44e6-bfd8-002aa04d1b62.png" width="400"> | 
 
+Previous projects that are no longer maintained:
+
+| Sneakz  | Vimoapp |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 ### Sneakz 👟
 
 <a href="https://apps.apple.com/at/app/sneakz/id1532856139">AppStore</a>
