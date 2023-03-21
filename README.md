@@ -4,7 +4,7 @@ I mostly programm in Swift, but i like to programm Python as well.
 Currently working on:
 | AutoGPT  |
 | ------------- | 
-|  [<img src="https://user-images.githubusercontent.com/26815443/226721967-f8517924-0587-44e6-bfd8-002aa04d1b62.png" width="400">]([https://www.google.com/](https://github.com/adri567/autogpt)) | 
+|  [<img src="https://user-images.githubusercontent.com/26815443/226721967-f8517924-0587-44e6-bfd8-002aa04d1b62.png" width="400">](https://www.google.com/](https://github.com/adri567/autogpt) | 
 
 Previous projects that are no longer maintained:
 
