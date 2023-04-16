@@ -7,9 +7,9 @@ Currently working on:
 
 Open-source projects:
 
-| CheesyChart 🧀  | FlexFlex 💠 |
-| ------------- | ------------- |
-| <a href="https://github.com/adri567/CheesyChart">GitHub</a> | <a href="https://github.com/adri567/FlexFlex">GitHub</a>  |
+| CheesyChart 🧀  | FlexFlex 💠 | Navify 🔰 |
+| ------------- | ------------- | ------------- |
+| <a href="https://github.com/adri567/CheesyChart">GitHub</a> | <a href="https://github.com/adri567/FlexFlex">GitHub</a>  | <a href="https://github.com/adri567/Navify">GitHub</a>
 
 Previous projects that are no longer maintained:
 
