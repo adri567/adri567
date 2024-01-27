@@ -1,6 +1,5 @@
 ### Welcome to my Page. Nothing special only a few of the projects I've made or I'm working on. 👋🏽
 
-Currently working on:
 | AutoGPT  |
 | ------------- | 
 |  [<img src="https://user-images.githubusercontent.com/26815443/226721967-f8517924-0587-44e6-bfd8-002aa04d1b62.png" width="400">](https://github.com/adri567/autogpt) | 
